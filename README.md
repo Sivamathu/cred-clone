@@ -17,7 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-27 172820" src="https://github.com/user-attachments/assets/f5339cac-2d80-4311-92a5-47e7feb1c626" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-27 172830" src="https://github.com/user-attachments/assets/3763549c-493e-4883-b817-417518283fd4" />
-<img width="1920" height="1020" alt="Screenshot 2026-05-27 172725" src="https://github.com/user-attachments/assets/a97f5909-0de6-4b18-884a-b07c3b46164e" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-27 172802" src="https://github.com/user-attachments/assets/ae972c2b-a2aa-474c-b373-699f7aef8e60" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-27 172809" src="https://github.com/user-attachments/assets/f921981b-2347-4420-95fa-5c48ce9b41e3" />
 
